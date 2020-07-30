@@ -1,0 +1,54 @@
+.padrao {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: whitesmoke;
+  left: -8px;
+}
+
+#FuncText {
+  font-size: 50;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration: underline none;
+}
+
+.logo {
+  width: 100.3%;
+  height: 19%;
+}
+
+#corpo {
+  position: fixed;
+  width: 100%;
+}
+
+form {
+  text-align: center;
+}
+
+#estrutura {
+  margin-block: 10px;
+}
+
+.txtCampo {
+  width: 55.3%;
+  height: 30px;
+  float: center;
+  margin: 0px auto;
+  font-size: 20;
+}
+
+#btnSave {
+  font-weight: bold;
+  width: 350px;
+  height: 60px;
+  font-size: 20;
+  background-color: white;
+  border-color: black;
+}
+
+.rodape {
+  font-size: 17;
+  float: left;
+  bottom: 0;
+  width: 100.3%;
+}
